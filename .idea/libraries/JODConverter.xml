@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="JODConverter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/JODConverter/juh-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JODConverter/jurt-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JODConverter/jodconverter-core-3.0-beta-4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JODConverter/unoil-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JODConverter/ridl-3.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
